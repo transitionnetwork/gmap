@@ -1,4 +1,4 @@
-name = GMap (Transtion fork)
+name = GMap Transtion
 description = Filter to allow insertion of a google map into a node
 core = 6.x
 package = Location
